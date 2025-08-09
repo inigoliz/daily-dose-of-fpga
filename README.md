@@ -6,12 +6,15 @@ Welcome, visitor 👋.
 
 👉 Maybe you're also a beginner wanting to learn about FPGAs, and these incremental projects will be useful for you!
 
-<img width="490" height="655" alt="image" src="https://github.com/user-attachments/assets/a20d3637-be7a-4dd7-a1ba-31af0eaaf7ed" />
+<p align="center">
+  <img width="490" height="655" alt="image" src="https://github.com/user-attachments/assets/a20d3637-be7a-4dd7-a1ba-31af0eaaf7ed" />
+</p>
 
 > I'm using the [`pico-ice` board](https://pico-ice.tinyvision.ai/) which features an iCE40UP5K FPGA from Lattice Semi with 5.2 K LUTs.
 
-![Uploading image.png…]()
-
+<p align="center">
+  <img width="798" height="530" alt="image" src="https://github.com/user-attachments/assets/4747cd0c-c1f8-4933-b149-4fd5ca0c2d77" />
+</p>
 
 Learning to speak **Verilog** has been a long-standing project of mine. The steep learning curve and the busy everyday have led me to keep postponing it.
 Well, not anymore.
