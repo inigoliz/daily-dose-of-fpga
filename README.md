@@ -10,6 +10,9 @@ Welcome, visitor 👋.
 
 > I'm using the [`pico-ice` board](https://pico-ice.tinyvision.ai/) which features an iCE40UP5K FPGA from Lattice Semi with 5.2 K LUTs.
 
+![Uploading image.png…]()
+
+
 Learning to speak **Verilog** has been a long-standing project of mine. The steep learning curve and the busy everyday have led me to keep postponing it.
 Well, not anymore.
 
