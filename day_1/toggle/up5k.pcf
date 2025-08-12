@@ -1,0 +1,4 @@
+set_io -nowarn i_switch 10
+set_io -nowarn o_led_red 41
+set_io -nowarn o_led_blue 40
+set_io -nowarn i_clk 35
