@@ -1,13 +1,14 @@
 # Day 1
 
+**Final project:**
+
+<p align="center">
+    <img width="769" height="470" alt="image" src="https://github.com/user-attachments/assets/f150502a-34ab-4b1c-aee9-b725a9ff9d1f" />
+</p>
+
 Day 1 has been about setting up the development environment, understanding the datasheet
 of the `pico-ice` board and creating a simple sketch that toggles between the red and
 blue LEDs on each press.
-
-Final project:
-
-![2025-08-12 17 49 07](https://github.com/user-attachments/assets/f150502a-34ab-4b1c-aee9-b725a9ff9d1f)
-
 
 - I'll use [`apio`](https://fpgawars.github.io/apio/) SDK (coding + synthesis + place and route + deployment).
 <p align="center">
@@ -18,7 +19,10 @@ Final project:
 the pins of the push button and color LEDs.
 
 <p align="center">
-<img width="1160" height="383" alt="image" src="https://github.com/user-attachments/assets/2711583f-5441-4b5d-8155-3e2f0dc46759" />
+  <img width="1160" height="383" alt="image" src="https://github.com/user-attachments/assets/2711583f-5441-4b5d-8155-3e2f0dc46759" />
 </p>
 
-- Learning to define wires, registers and clock-triggered assignments.
+- Learning to define wires, registers and clock-triggered assignments, and learning to do edge detection.
+<p align="center">
+  <img width="986" height="612" alt="image" src="https://github.com/user-attachments/assets/aea6645b-eb6f-4bcb-8f14-aafb15b2fcb0" />
+</p>
